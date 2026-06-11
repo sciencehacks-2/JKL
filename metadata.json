@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ফ্যাক্টরি পাওয়ার ট্র্যাকার ও ফল্ট মনিটর",
+  "description": "কারখানার বিদ্যুৎ ব্যবহার, অপচয়, বৈদ্যুতিক ত্রুটি এবং লিকেজ সনাক্তকরণের জন্য একটি রিয়েল-টাইম পর্যবেক্ষণ মনিটর",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
